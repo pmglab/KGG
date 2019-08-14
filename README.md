@@ -10,7 +10,8 @@ KGG4 currently provides 6 types of secondary analyses:
   + Gene-pair-based association
   + Gene-set-based association
   + Driver-tissue estimation
-  
+
+For more details of KGG, see http://grass.cgs.hku.hk/limx/kgg.
  ![GitHub][github]
 
 [github]: http://grass.cgs.hku.hk/limx/kgg/images/kggworkflow4.png "KGG workflow"
