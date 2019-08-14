@@ -11,10 +11,11 @@ KGG4 currently provides 6 types of secondary analyses:
   + Gene-set-based association
   + Driver-tissue estimation
 
-For more details of KGG, see http://grass.cgs.hku.hk/limx/kgg.
+
  ![GitHub][github]
 
 [github]: http://grass.cgs.hku.hk/limx/kgg/images/kggworkflow4.png "KGG workflow"
+For more details of KGG, see http://grass.cgs.hku.hk/limx/kgg.
 
 ## References & Citations
 1. Li MX, Kwan JS, Sham PC. HYST: A HYbrid Set-based Test for genome-wide association studies, with application to protein-protein interaction-based association analysis. Am J Hum Genet. 2012 Sep 7;91(3):478-88.
