@@ -27,4 +27,4 @@ For more details of KGG, see http://grass.cgs.hku.hk/limx/kgg.
 7. Jiang et al. Estimating driver-tissues by selective expression of genes associated with complex diseases or traits (submitted)
 
 ## Licenses
-The code is distributed under [MIT License](https://opensource.org/licenses/MIT).
+The code is released under [MIT License](https://opensource.org/licenses/MIT).
