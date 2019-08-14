@@ -1,5 +1,5 @@
 # KGG 
-![AUR license](https://img.shields.io/aur/license/pac)
+![AUR license](https://img.shields.io/aur/license/pac) [![DOI](https://zenodo.org/badge/202153031.svg)](https://zenodo.org/badge/latestdoi/202153031)
  
  **KGG** (Knowledge-based mining system for Genome-wide Genetic studies) is a software tool to perform knowledge-based secondary analyses of p-values from genome-wide association studies (GWAS). The knowledge-based secondary analyses include gene-based, gene-pair-based and gene-set based association analysis.It is implemented by Java with a user-friendly graphic interface to facilitate data analysis and result visualization. Build on advanced algorithms, it is able to process up to 10 million variants in several hours with 15GB RAM on a workstation. 
 KGG4 currently provides 6 types of secondary analyses:
