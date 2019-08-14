@@ -23,7 +23,7 @@ For more details of KGG, see http://grass.cgs.hku.hk/limx/kgg.
 3. Li MX, Sham PC, Cherny SS, Song YQ.(2010) A knowledge-based weighting framework to boost the power of genome-wide association studies. PLoS One Dec 31;5(12):e14480.
 4. Van der Sluis S, Dolan CV, Li J, Song Y, Sham P, Posthuma D, Li MX. MGAS: a powerful tool for multivariate gene-based genome-wide association analysis. Bioinformatics 2015 Apr 1;31(7):1007-15.
 5. Li et al. A powerful conditional gene-based association approach implicated functionally important genes for schizophrenia. Bioinformatics 2019 Feb 15;35(4):628-635.
-6. Gui et al. Sharing of Genes and Pathways Across Complex Phenotypes: A Multilevel Genome-Wide Analysis. Genetics2017 Jul;206(3):1601-1609
+6. Gui et al. Sharing of Genes and Pathways Across Complex Phenotypes: A Multilevel Genome-Wide Analysis. Genetics 2017 Jul;206(3):1601-1609
 7. Jiang et al. Estimating driver-tissues by selective expression of genes associated with complex diseases or traits (submitted)
 
 ## Licenses
