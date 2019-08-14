@@ -1,5 +1,6 @@
-# KGG 
+# KGG: A systematic biological Knowledge-based mining system for Genome-wide Genetic studies
 ![AUR license](https://img.shields.io/aur/license/pac) [![DOI](https://zenodo.org/badge/202153031.svg)](https://zenodo.org/badge/latestdoi/202153031)
+ <br>Miaoxin Li; Lin Jiang; Chao Xue; Jaing Li
  
  **KGG** (Knowledge-based mining system for Genome-wide Genetic studies) is a software tool to perform knowledge-based secondary analyses of p-values from genome-wide association studies (GWAS). The knowledge-based secondary analyses include gene-based, gene-pair-based and gene-set based association analysis.It is implemented by Java with a user-friendly graphic interface to facilitate data analysis and result visualization. Build on advanced algorithms, it is able to process up to 10 million variants in several hours with 15GB RAM on a workstation. 
 KGG4 currently provides 6 types of secondary analyses:
@@ -22,3 +23,6 @@ KGG4 currently provides 6 types of secondary analyses:
 5. Li et al. A powerful conditional gene-based association approach implicated functionally important genes for schizophrenia. Bioinformatics 2019 Feb 15;35(4):628-635.
 6. Gui et al. Sharing of Genes and Pathways Across Complex Phenotypes: A Multilevel Genome-Wide Analysis. Genetics2017 Jul;206(3):1601-1609
 7. Jiang et al. Estimating driver-tissues by selective expression of genes associated with complex diseases or traits (submitted)
+
+## Licenses
+The code is distributed under [MIT License](https://opensource.org/licenses/MIT).
